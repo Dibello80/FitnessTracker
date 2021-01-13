@@ -1,5 +1,5 @@
 # Fitness Tracker
-
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dibello80/EmployeeTracker.git)
 ## Description
 
 Track your workouts with Fitness Tracker. The app will keep track of every exercise in your workout. The app dashboard will display weekly summary graphs of all workouts done in a week.
