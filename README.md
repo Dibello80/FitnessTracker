@@ -68,12 +68,10 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 
 ## Credits
-
-### Author
-
-- 💼 Angelo Rocky Dibello:
-- :octocat: Github: 
-- LinkedIn: 
-
+## Authors
+UCLA Extension, GitHub Community, Angelo Rocky Dibello
+* [Portfolio](https://dibello80.github.io/AngeloRockyDibello-Portfolio/)
+* [GitHub](https://github.com/Dibello80)
+* [LinkedIn](https://www.linkedin.com/in/angelodibello)
 
 
